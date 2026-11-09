@@ -1,0 +1,3 @@
+Stopped at Numeric, skipped const slides code, download
+
+class ended at pointer arithmatic

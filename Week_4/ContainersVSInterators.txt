@@ -1,0 +1,23 @@
+Containers provide:
+    Several iterator types
+        vector<int>::iterator
+        vector<int>::reverse_iterator
+        the loop goes in the iterator's direction
+    Methods to obtain iterators
+        at either end
+        forward or reverse
+    the "end" iterator is pointing PAST the last element
+
+
+Iterators Provide:
+    A way to MOVE forward 
+        the ++ operator
+    A way to READ at the current index
+        the * operator
+    A way to TEST for the end
+        by comparing to an iterator set AT THE end
+    A way to JUMP to any rank
+        with arithmetic on iterators
+    A way to WRITE at the current index
+        the * operator as a write value
+
